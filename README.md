@@ -9,4 +9,4 @@ I'm **Michael Forde**, a Computer Science student at **Columbia University**, pa
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://michaelforde.dev)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelkforde)
-[![blog](https://img.shields.io/badge/blog-1DA1F2?style=for-the-badge&logo=ghost&logoColor=white)](https://blog.michaelforde.com)jj
+[![blog](https://img.shields.io/badge/blog-1DA1F2?style=for-the-badge&logo=ghost&logoColor=white)](https://blog.michaelforde.com)
