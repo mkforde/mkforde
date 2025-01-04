@@ -6,6 +6,9 @@ I'm **Michael Forde**, a Computer Science student at **Columbia University**, pa
 - 👯 Excited to collaborate on **open-source projects**.  
 - ⚡ Fun fact: When I'm not coding, you'll find me playing the **double bass**.  
 
+## ✍️ Blog
+I've recently started blogging more consistently! My blog features insights on **coding**, **student life**, and **personal development**—along with tips for fellow learners. If you're interested in these topics, check out my blog [here](https://blog.michaelforde.com) and feel free to subscribe! Your support means a lot and helps me keep creating useful content.
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://blog.michaelforde.com/portfolio)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelkforde)
