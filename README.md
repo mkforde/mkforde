@@ -11,6 +11,6 @@ I've recently started blogging more consistently! My blog features insights on *
 
 ## 🔗 Links
 
-[![connect](https://img.shields.io/badge/connect-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://connect.techmike.net)
+[![connect](https://img.shields.io/badge/connect-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://michaelforde.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelkforde)
 [![blog](https://img.shields.io/badge/blog-1DA1F2?style=for-the-badge&logo=ghost&logoColor=white)](https://blog.michaelforde.com)
